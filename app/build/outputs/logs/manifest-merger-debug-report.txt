@@ -1,0 +1,200 @@
+-- Merging decision tree log ---
+manifest
+ADDED from E:\WIldanTechnoArt\kasku\app\src\main\AndroidManifest.xml:2:1-28:12
+INJECTED from E:\WIldanTechnoArt\kasku\app\src\main\AndroidManifest.xml:2:1-28:12
+INJECTED from E:\WIldanTechnoArt\kasku\app\src\main\AndroidManifest.xml:2:1-28:12
+INJECTED from E:\WIldanTechnoArt\kasku\app\src\main\AndroidManifest.xml:2:1-28:12
+MERGED from [com.android.support:design:26.1.0] C:\Users\Wildan M Athoillah\.gradle\caches\transforms-1\files-1.1\design-26.1.0.aar\04a76a01958a2fbc180f1cefb1503b7e\AndroidManifest.xml:17:1-31:12
+MERGED from [com.android.support:appcompat-v7:26.1.0] C:\Users\Wildan M Athoillah\.gradle\caches\transforms-1\files-1.1\appcompat-v7-26.1.0.aar\829b838287a8fc60bf0d366b7104f63a\AndroidManifest.xml:17:1-31:12
+MERGED from [com.android.support.constraint:constraint-layout:1.0.2] C:\Users\Wildan M Athoillah\.gradle\caches\transforms-1\files-1.1\constraint-layout-1.0.2.aar\bb4d0e0fcc00e26af19e293bd67dbd22\AndroidManifest.xml:2:1-11:12
+MERGED from [com.android.support:cardview-v7:21.0.3] C:\Users\Wildan M Athoillah\.gradle\caches\transforms-1\files-1.1\cardview-v7-21.0.3.aar\1c9492cddc7a67fafe79d7d5552c54df\AndroidManifest.xml:14:4-17:12
+MERGED from [com.github.dmytrodanylyk.shadow-layout:library:1.0.3] C:\Users\Wildan M Athoillah\.gradle\caches\transforms-1\files-1.1\library-1.0.3.aar\07e9cb668c0ae5e750bd05aba2961060\AndroidManifest.xml:2:1-14:12
+MERGED from [com.patrickpissurno:ripple-effect:1.3.1] C:\Users\Wildan M Athoillah\.gradle\caches\transforms-1\files-1.1\ripple-effect-1.3.1.aar\f8dc73e6cfd5966c9a26c333a90f618a\AndroidManifest.xml:2:1-14:12
+MERGED from [com.android.support:animated-vector-drawable:26.1.0] C:\Users\Wildan M Athoillah\.gradle\caches\transforms-1\files-1.1\animated-vector-drawable-26.1.0.aar\b2e14a19451647c1e1f7eb36636dcfe0\AndroidManifest.xml:17:1-28:12
+MERGED from [com.android.support:support-vector-drawable:26.1.0] C:\Users\Wildan M Athoillah\.gradle\caches\transforms-1\files-1.1\support-vector-drawable-26.1.0.aar\c00d50a7bf223ee13496b89d18c1b6bb\AndroidManifest.xml:17:1-28:12
+MERGED from [com.android.support:recyclerview-v7:26.1.0] C:\Users\Wildan M Athoillah\.gradle\caches\transforms-1\files-1.1\recyclerview-v7-26.1.0.aar\5174c5f8aaa9fe0c9c4b82bf4e491201\AndroidManifest.xml:17:1-28:12
+MERGED from [com.android.support:transition:26.1.0] C:\Users\Wildan M Athoillah\.gradle\caches\transforms-1\files-1.1\transition-26.1.0.aar\f5a5c2e53cd99bec1a5bcbfe21876735\AndroidManifest.xml:17:1-28:12
+MERGED from [com.android.support:support-v4:26.1.0] C:\Users\Wildan M Athoillah\.gradle\caches\transforms-1\files-1.1\support-v4-26.1.0.aar\9457e5b6f4e41caa78986ca07d7c5f88\AndroidManifest.xml:17:1-31:12
+MERGED from [com.android.support:support-media-compat:26.1.0] C:\Users\Wildan M Athoillah\.gradle\caches\transforms-1\files-1.1\support-media-compat-26.1.0.aar\3a5ec474cc0845753d8411a0ddae7427\AndroidManifest.xml:17:1-31:12
+MERGED from [com.android.support:support-fragment:26.1.0] C:\Users\Wildan M Athoillah\.gradle\caches\transforms-1\files-1.1\support-fragment-26.1.0.aar\884f2211f6c0b5f76d394b289691fbfa\AndroidManifest.xml:17:1-31:12
+MERGED from [com.android.support:support-core-utils:26.1.0] C:\Users\Wildan M Athoillah\.gradle\caches\transforms-1\files-1.1\support-core-utils-26.1.0.aar\970e8c2f816d8ced9f1243410d9e4a20\AndroidManifest.xml:17:1-31:12
+MERGED from [com.android.support:support-core-ui:26.1.0] C:\Users\Wildan M Athoillah\.gradle\caches\transforms-1\files-1.1\support-core-ui-26.1.0.aar\5dc5a24f006d30c5fdb753872bf0ca1a\AndroidManifest.xml:17:1-31:12
+MERGED from [com.android.support:support-compat:26.1.0] C:\Users\Wildan M Athoillah\.gradle\caches\transforms-1\files-1.1\support-compat-26.1.0.aar\3d23b1a787a9190dd0109fd1f9dbf878\AndroidManifest.xml:17:1-31:12
+MERGED from [android.arch.lifecycle:runtime:1.0.0] C:\Users\Wildan M Athoillah\.gradle\caches\transforms-1\files-1.1\runtime-1.0.0.aar\adef0c4a05984e5109c7606ede1fcc9b\AndroidManifest.xml:17:1-30:12
+INJECTED from E:\WIldanTechnoArt\kasku\app\src\main\AndroidManifest.xml:2:1-28:12
+INJECTED from E:\WIldanTechnoArt\kasku\app\src\main\AndroidManifest.xml:2:1-28:12
+INJECTED from E:\WIldanTechnoArt\kasku\app\src\main\AndroidManifest.xml:2:1-28:12
+	package
+		ADDED from E:\WIldanTechnoArt\kasku\app\src\main\AndroidManifest.xml:3:5-39
+		INJECTED from E:\WIldanTechnoArt\kasku\app\src\main\AndroidManifest.xml
+		INJECTED from E:\WIldanTechnoArt\kasku\app\src\main\AndroidManifest.xml
+	android:versionName
+		INJECTED from E:\WIldanTechnoArt\kasku\app\src\main\AndroidManifest.xml
+		ADDED from E:\WIldanTechnoArt\kasku\app\src\main\AndroidManifest.xml:2:1-28:12
+		INJECTED from E:\WIldanTechnoArt\kasku\app\src\main\AndroidManifest.xml
+	android:versionCode
+		INJECTED from E:\WIldanTechnoArt\kasku\app\src\main\AndroidManifest.xml
+		ADDED from E:\WIldanTechnoArt\kasku\app\src\main\AndroidManifest.xml:2:1-28:12
+		INJECTED from E:\WIldanTechnoArt\kasku\app\src\main\AndroidManifest.xml
+	xmlns:android
+		ADDED from E:\WIldanTechnoArt\kasku\app\src\main\AndroidManifest.xml:2:11-69
+application
+ADDED from E:\WIldanTechnoArt\kasku\app\src\main\AndroidManifest.xml:5:5-26:19
+MERGED from [com.android.support:design:26.1.0] C:\Users\Wildan M Athoillah\.gradle\caches\transforms-1\files-1.1\design-26.1.0.aar\04a76a01958a2fbc180f1cefb1503b7e\AndroidManifest.xml:25:5-29:19
+MERGED from [com.android.support:design:26.1.0] C:\Users\Wildan M Athoillah\.gradle\caches\transforms-1\files-1.1\design-26.1.0.aar\04a76a01958a2fbc180f1cefb1503b7e\AndroidManifest.xml:25:5-29:19
+MERGED from [com.android.support:appcompat-v7:26.1.0] C:\Users\Wildan M Athoillah\.gradle\caches\transforms-1\files-1.1\appcompat-v7-26.1.0.aar\829b838287a8fc60bf0d366b7104f63a\AndroidManifest.xml:25:5-29:19
+MERGED from [com.android.support:appcompat-v7:26.1.0] C:\Users\Wildan M Athoillah\.gradle\caches\transforms-1\files-1.1\appcompat-v7-26.1.0.aar\829b838287a8fc60bf0d366b7104f63a\AndroidManifest.xml:25:5-29:19
+MERGED from [com.android.support.constraint:constraint-layout:1.0.2] C:\Users\Wildan M Athoillah\.gradle\caches\transforms-1\files-1.1\constraint-layout-1.0.2.aar\bb4d0e0fcc00e26af19e293bd67dbd22\AndroidManifest.xml:9:5-20
+MERGED from [com.android.support.constraint:constraint-layout:1.0.2] C:\Users\Wildan M Athoillah\.gradle\caches\transforms-1\files-1.1\constraint-layout-1.0.2.aar\bb4d0e0fcc00e26af19e293bd67dbd22\AndroidManifest.xml:9:5-20
+MERGED from [com.android.support:cardview-v7:21.0.3] C:\Users\Wildan M Athoillah\.gradle\caches\transforms-1\files-1.1\cardview-v7-21.0.3.aar\1c9492cddc7a67fafe79d7d5552c54df\AndroidManifest.xml:16:5-19
+MERGED from [com.android.support:cardview-v7:21.0.3] C:\Users\Wildan M Athoillah\.gradle\caches\transforms-1\files-1.1\cardview-v7-21.0.3.aar\1c9492cddc7a67fafe79d7d5552c54df\AndroidManifest.xml:16:5-19
+MERGED from [com.github.dmytrodanylyk.shadow-layout:library:1.0.3] C:\Users\Wildan M Athoillah\.gradle\caches\transforms-1\files-1.1\library-1.0.3.aar\07e9cb668c0ae5e750bd05aba2961060\AndroidManifest.xml:12:5-20
+MERGED from [com.github.dmytrodanylyk.shadow-layout:library:1.0.3] C:\Users\Wildan M Athoillah\.gradle\caches\transforms-1\files-1.1\library-1.0.3.aar\07e9cb668c0ae5e750bd05aba2961060\AndroidManifest.xml:12:5-20
+MERGED from [com.patrickpissurno:ripple-effect:1.3.1] C:\Users\Wildan M Athoillah\.gradle\caches\transforms-1\files-1.1\ripple-effect-1.3.1.aar\f8dc73e6cfd5966c9a26c333a90f618a\AndroidManifest.xml:12:5-20
+MERGED from [com.patrickpissurno:ripple-effect:1.3.1] C:\Users\Wildan M Athoillah\.gradle\caches\transforms-1\files-1.1\ripple-effect-1.3.1.aar\f8dc73e6cfd5966c9a26c333a90f618a\AndroidManifest.xml:12:5-20
+MERGED from [com.android.support:animated-vector-drawable:26.1.0] C:\Users\Wildan M Athoillah\.gradle\caches\transforms-1\files-1.1\animated-vector-drawable-26.1.0.aar\b2e14a19451647c1e1f7eb36636dcfe0\AndroidManifest.xml:22:5-26:19
+MERGED from [com.android.support:animated-vector-drawable:26.1.0] C:\Users\Wildan M Athoillah\.gradle\caches\transforms-1\files-1.1\animated-vector-drawable-26.1.0.aar\b2e14a19451647c1e1f7eb36636dcfe0\AndroidManifest.xml:22:5-26:19
+MERGED from [com.android.support:support-vector-drawable:26.1.0] C:\Users\Wildan M Athoillah\.gradle\caches\transforms-1\files-1.1\support-vector-drawable-26.1.0.aar\c00d50a7bf223ee13496b89d18c1b6bb\AndroidManifest.xml:22:5-26:19
+MERGED from [com.android.support:support-vector-drawable:26.1.0] C:\Users\Wildan M Athoillah\.gradle\caches\transforms-1\files-1.1\support-vector-drawable-26.1.0.aar\c00d50a7bf223ee13496b89d18c1b6bb\AndroidManifest.xml:22:5-26:19
+MERGED from [com.android.support:recyclerview-v7:26.1.0] C:\Users\Wildan M Athoillah\.gradle\caches\transforms-1\files-1.1\recyclerview-v7-26.1.0.aar\5174c5f8aaa9fe0c9c4b82bf4e491201\AndroidManifest.xml:22:5-26:19
+MERGED from [com.android.support:recyclerview-v7:26.1.0] C:\Users\Wildan M Athoillah\.gradle\caches\transforms-1\files-1.1\recyclerview-v7-26.1.0.aar\5174c5f8aaa9fe0c9c4b82bf4e491201\AndroidManifest.xml:22:5-26:19
+MERGED from [com.android.support:transition:26.1.0] C:\Users\Wildan M Athoillah\.gradle\caches\transforms-1\files-1.1\transition-26.1.0.aar\f5a5c2e53cd99bec1a5bcbfe21876735\AndroidManifest.xml:22:5-26:19
+MERGED from [com.android.support:transition:26.1.0] C:\Users\Wildan M Athoillah\.gradle\caches\transforms-1\files-1.1\transition-26.1.0.aar\f5a5c2e53cd99bec1a5bcbfe21876735\AndroidManifest.xml:22:5-26:19
+MERGED from [com.android.support:support-v4:26.1.0] C:\Users\Wildan M Athoillah\.gradle\caches\transforms-1\files-1.1\support-v4-26.1.0.aar\9457e5b6f4e41caa78986ca07d7c5f88\AndroidManifest.xml:25:5-29:19
+MERGED from [com.android.support:support-v4:26.1.0] C:\Users\Wildan M Athoillah\.gradle\caches\transforms-1\files-1.1\support-v4-26.1.0.aar\9457e5b6f4e41caa78986ca07d7c5f88\AndroidManifest.xml:25:5-29:19
+MERGED from [com.android.support:support-media-compat:26.1.0] C:\Users\Wildan M Athoillah\.gradle\caches\transforms-1\files-1.1\support-media-compat-26.1.0.aar\3a5ec474cc0845753d8411a0ddae7427\AndroidManifest.xml:25:5-29:19
+MERGED from [com.android.support:support-media-compat:26.1.0] C:\Users\Wildan M Athoillah\.gradle\caches\transforms-1\files-1.1\support-media-compat-26.1.0.aar\3a5ec474cc0845753d8411a0ddae7427\AndroidManifest.xml:25:5-29:19
+MERGED from [com.android.support:support-fragment:26.1.0] C:\Users\Wildan M Athoillah\.gradle\caches\transforms-1\files-1.1\support-fragment-26.1.0.aar\884f2211f6c0b5f76d394b289691fbfa\AndroidManifest.xml:25:5-29:19
+MERGED from [com.android.support:support-fragment:26.1.0] C:\Users\Wildan M Athoillah\.gradle\caches\transforms-1\files-1.1\support-fragment-26.1.0.aar\884f2211f6c0b5f76d394b289691fbfa\AndroidManifest.xml:25:5-29:19
+MERGED from [com.android.support:support-core-utils:26.1.0] C:\Users\Wildan M Athoillah\.gradle\caches\transforms-1\files-1.1\support-core-utils-26.1.0.aar\970e8c2f816d8ced9f1243410d9e4a20\AndroidManifest.xml:25:5-29:19
+MERGED from [com.android.support:support-core-utils:26.1.0] C:\Users\Wildan M Athoillah\.gradle\caches\transforms-1\files-1.1\support-core-utils-26.1.0.aar\970e8c2f816d8ced9f1243410d9e4a20\AndroidManifest.xml:25:5-29:19
+MERGED from [com.android.support:support-core-ui:26.1.0] C:\Users\Wildan M Athoillah\.gradle\caches\transforms-1\files-1.1\support-core-ui-26.1.0.aar\5dc5a24f006d30c5fdb753872bf0ca1a\AndroidManifest.xml:25:5-29:19
+MERGED from [com.android.support:support-core-ui:26.1.0] C:\Users\Wildan M Athoillah\.gradle\caches\transforms-1\files-1.1\support-core-ui-26.1.0.aar\5dc5a24f006d30c5fdb753872bf0ca1a\AndroidManifest.xml:25:5-29:19
+MERGED from [com.android.support:support-compat:26.1.0] C:\Users\Wildan M Athoillah\.gradle\caches\transforms-1\files-1.1\support-compat-26.1.0.aar\3d23b1a787a9190dd0109fd1f9dbf878\AndroidManifest.xml:25:5-29:19
+MERGED from [com.android.support:support-compat:26.1.0] C:\Users\Wildan M Athoillah\.gradle\caches\transforms-1\files-1.1\support-compat-26.1.0.aar\3d23b1a787a9190dd0109fd1f9dbf878\AndroidManifest.xml:25:5-29:19
+MERGED from [android.arch.lifecycle:runtime:1.0.0] C:\Users\Wildan M Athoillah\.gradle\caches\transforms-1\files-1.1\runtime-1.0.0.aar\adef0c4a05984e5109c7606ede1fcc9b\AndroidManifest.xml:24:5-28:19
+MERGED from [android.arch.lifecycle:runtime:1.0.0] C:\Users\Wildan M Athoillah\.gradle\caches\transforms-1\files-1.1\runtime-1.0.0.aar\adef0c4a05984e5109c7606ede1fcc9b\AndroidManifest.xml:24:5-28:19
+	android:supportsRtl
+		ADDED from E:\WIldanTechnoArt\kasku\app\src\main\AndroidManifest.xml:10:9-35
+	android:label
+		ADDED from E:\WIldanTechnoArt\kasku\app\src\main\AndroidManifest.xml:8:9-41
+	android:roundIcon
+		ADDED from E:\WIldanTechnoArt\kasku\app\src\main\AndroidManifest.xml:9:9-54
+	android:icon
+		ADDED from E:\WIldanTechnoArt\kasku\app\src\main\AndroidManifest.xml:7:9-43
+	android:allowBackup
+		ADDED from E:\WIldanTechnoArt\kasku\app\src\main\AndroidManifest.xml:6:9-35
+	android:theme
+		ADDED from E:\WIldanTechnoArt\kasku\app\src\main\AndroidManifest.xml:11:9-40
+activity#com.droid.firmware.kasku.Splashscreen
+ADDED from E:\WIldanTechnoArt\kasku\app\src\main\AndroidManifest.xml:12:9-21:20
+	android:label
+		ADDED from E:\WIldanTechnoArt\kasku\app\src\main\AndroidManifest.xml:14:13-45
+	android:theme
+		ADDED from E:\WIldanTechnoArt\kasku\app\src\main\AndroidManifest.xml:15:13-56
+	android:name
+		ADDED from E:\WIldanTechnoArt\kasku\app\src\main\AndroidManifest.xml:13:13-41
+intent-filter#android.intent.action.MAIN+android.intent.category.LAUNCHER
+ADDED from E:\WIldanTechnoArt\kasku\app\src\main\AndroidManifest.xml:16:13-20:29
+action#android.intent.action.MAIN
+ADDED from E:\WIldanTechnoArt\kasku\app\src\main\AndroidManifest.xml:17:17-69
+	android:name
+		ADDED from E:\WIldanTechnoArt\kasku\app\src\main\AndroidManifest.xml:17:25-66
+category#android.intent.category.LAUNCHER
+ADDED from E:\WIldanTechnoArt\kasku\app\src\main\AndroidManifest.xml:19:17-77
+	android:name
+		ADDED from E:\WIldanTechnoArt\kasku\app\src\main\AndroidManifest.xml:19:27-74
+activity#com.droid.firmware.kasku.MainActivity
+ADDED from E:\WIldanTechnoArt\kasku\app\src\main\AndroidManifest.xml:22:9-24:59
+	android:theme
+		ADDED from E:\WIldanTechnoArt\kasku\app\src\main\AndroidManifest.xml:24:13-56
+	android:name
+		ADDED from E:\WIldanTechnoArt\kasku\app\src\main\AndroidManifest.xml:23:13-41
+activity#com.droid.firmware.kasku.AddActivity
+ADDED from E:\WIldanTechnoArt\kasku\app\src\main\AndroidManifest.xml:25:9-58
+	android:name
+		ADDED from E:\WIldanTechnoArt\kasku\app\src\main\AndroidManifest.xml:25:19-46
+uses-sdk
+INJECTED from E:\WIldanTechnoArt\kasku\app\src\main\AndroidManifest.xml reason: use-sdk injection requested
+INJECTED from E:\WIldanTechnoArt\kasku\app\src\main\AndroidManifest.xml
+INJECTED from E:\WIldanTechnoArt\kasku\app\src\main\AndroidManifest.xml
+MERGED from [com.android.support:design:26.1.0] C:\Users\Wildan M Athoillah\.gradle\caches\transforms-1\files-1.1\design-26.1.0.aar\04a76a01958a2fbc180f1cefb1503b7e\AndroidManifest.xml:21:5-23:62
+MERGED from [com.android.support:design:26.1.0] C:\Users\Wildan M Athoillah\.gradle\caches\transforms-1\files-1.1\design-26.1.0.aar\04a76a01958a2fbc180f1cefb1503b7e\AndroidManifest.xml:21:5-23:62
+MERGED from [com.android.support:appcompat-v7:26.1.0] C:\Users\Wildan M Athoillah\.gradle\caches\transforms-1\files-1.1\appcompat-v7-26.1.0.aar\829b838287a8fc60bf0d366b7104f63a\AndroidManifest.xml:21:5-23:78
+MERGED from [com.android.support:appcompat-v7:26.1.0] C:\Users\Wildan M Athoillah\.gradle\caches\transforms-1\files-1.1\appcompat-v7-26.1.0.aar\829b838287a8fc60bf0d366b7104f63a\AndroidManifest.xml:21:5-23:78
+MERGED from [com.android.support.constraint:constraint-layout:1.0.2] C:\Users\Wildan M Athoillah\.gradle\caches\transforms-1\files-1.1\constraint-layout-1.0.2.aar\bb4d0e0fcc00e26af19e293bd67dbd22\AndroidManifest.xml:5:5-7:41
+MERGED from [com.android.support.constraint:constraint-layout:1.0.2] C:\Users\Wildan M Athoillah\.gradle\caches\transforms-1\files-1.1\constraint-layout-1.0.2.aar\bb4d0e0fcc00e26af19e293bd67dbd22\AndroidManifest.xml:5:5-7:41
+MERGED from [com.android.support:cardview-v7:21.0.3] C:\Users\Wildan M Athoillah\.gradle\caches\transforms-1\files-1.1\cardview-v7-21.0.3.aar\1c9492cddc7a67fafe79d7d5552c54df\AndroidManifest.xml:15:5-42
+MERGED from [com.android.support:cardview-v7:21.0.3] C:\Users\Wildan M Athoillah\.gradle\caches\transforms-1\files-1.1\cardview-v7-21.0.3.aar\1c9492cddc7a67fafe79d7d5552c54df\AndroidManifest.xml:15:5-42
+MERGED from [com.github.dmytrodanylyk.shadow-layout:library:1.0.3] C:\Users\Wildan M Athoillah\.gradle\caches\transforms-1\files-1.1\library-1.0.3.aar\07e9cb668c0ae5e750bd05aba2961060\AndroidManifest.xml:8:5-10:41
+MERGED from [com.github.dmytrodanylyk.shadow-layout:library:1.0.3] C:\Users\Wildan M Athoillah\.gradle\caches\transforms-1\files-1.1\library-1.0.3.aar\07e9cb668c0ae5e750bd05aba2961060\AndroidManifest.xml:8:5-10:41
+MERGED from [com.patrickpissurno:ripple-effect:1.3.1] C:\Users\Wildan M Athoillah\.gradle\caches\transforms-1\files-1.1\ripple-effect-1.3.1.aar\f8dc73e6cfd5966c9a26c333a90f618a\AndroidManifest.xml:8:5-10:41
+MERGED from [com.patrickpissurno:ripple-effect:1.3.1] C:\Users\Wildan M Athoillah\.gradle\caches\transforms-1\files-1.1\ripple-effect-1.3.1.aar\f8dc73e6cfd5966c9a26c333a90f618a\AndroidManifest.xml:8:5-10:41
+MERGED from [com.android.support:animated-vector-drawable:26.1.0] C:\Users\Wildan M Athoillah\.gradle\caches\transforms-1\files-1.1\animated-vector-drawable-26.1.0.aar\b2e14a19451647c1e1f7eb36636dcfe0\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:animated-vector-drawable:26.1.0] C:\Users\Wildan M Athoillah\.gradle\caches\transforms-1\files-1.1\animated-vector-drawable-26.1.0.aar\b2e14a19451647c1e1f7eb36636dcfe0\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-vector-drawable:26.1.0] C:\Users\Wildan M Athoillah\.gradle\caches\transforms-1\files-1.1\support-vector-drawable-26.1.0.aar\c00d50a7bf223ee13496b89d18c1b6bb\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-vector-drawable:26.1.0] C:\Users\Wildan M Athoillah\.gradle\caches\transforms-1\files-1.1\support-vector-drawable-26.1.0.aar\c00d50a7bf223ee13496b89d18c1b6bb\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:recyclerview-v7:26.1.0] C:\Users\Wildan M Athoillah\.gradle\caches\transforms-1\files-1.1\recyclerview-v7-26.1.0.aar\5174c5f8aaa9fe0c9c4b82bf4e491201\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:recyclerview-v7:26.1.0] C:\Users\Wildan M Athoillah\.gradle\caches\transforms-1\files-1.1\recyclerview-v7-26.1.0.aar\5174c5f8aaa9fe0c9c4b82bf4e491201\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:transition:26.1.0] C:\Users\Wildan M Athoillah\.gradle\caches\transforms-1\files-1.1\transition-26.1.0.aar\f5a5c2e53cd99bec1a5bcbfe21876735\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:transition:26.1.0] C:\Users\Wildan M Athoillah\.gradle\caches\transforms-1\files-1.1\transition-26.1.0.aar\f5a5c2e53cd99bec1a5bcbfe21876735\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-v4:26.1.0] C:\Users\Wildan M Athoillah\.gradle\caches\transforms-1\files-1.1\support-v4-26.1.0.aar\9457e5b6f4e41caa78986ca07d7c5f88\AndroidManifest.xml:21:5-23:54
+MERGED from [com.android.support:support-v4:26.1.0] C:\Users\Wildan M Athoillah\.gradle\caches\transforms-1\files-1.1\support-v4-26.1.0.aar\9457e5b6f4e41caa78986ca07d7c5f88\AndroidManifest.xml:21:5-23:54
+MERGED from [com.android.support:support-media-compat:26.1.0] C:\Users\Wildan M Athoillah\.gradle\caches\transforms-1\files-1.1\support-media-compat-26.1.0.aar\3a5ec474cc0845753d8411a0ddae7427\AndroidManifest.xml:21:5-23:63
+MERGED from [com.android.support:support-media-compat:26.1.0] C:\Users\Wildan M Athoillah\.gradle\caches\transforms-1\files-1.1\support-media-compat-26.1.0.aar\3a5ec474cc0845753d8411a0ddae7427\AndroidManifest.xml:21:5-23:63
+MERGED from [com.android.support:support-fragment:26.1.0] C:\Users\Wildan M Athoillah\.gradle\caches\transforms-1\files-1.1\support-fragment-26.1.0.aar\884f2211f6c0b5f76d394b289691fbfa\AndroidManifest.xml:21:5-23:60
+MERGED from [com.android.support:support-fragment:26.1.0] C:\Users\Wildan M Athoillah\.gradle\caches\transforms-1\files-1.1\support-fragment-26.1.0.aar\884f2211f6c0b5f76d394b289691fbfa\AndroidManifest.xml:21:5-23:60
+MERGED from [com.android.support:support-core-utils:26.1.0] C:\Users\Wildan M Athoillah\.gradle\caches\transforms-1\files-1.1\support-core-utils-26.1.0.aar\970e8c2f816d8ced9f1243410d9e4a20\AndroidManifest.xml:21:5-23:61
+MERGED from [com.android.support:support-core-utils:26.1.0] C:\Users\Wildan M Athoillah\.gradle\caches\transforms-1\files-1.1\support-core-utils-26.1.0.aar\970e8c2f816d8ced9f1243410d9e4a20\AndroidManifest.xml:21:5-23:61
+MERGED from [com.android.support:support-core-ui:26.1.0] C:\Users\Wildan M Athoillah\.gradle\caches\transforms-1\files-1.1\support-core-ui-26.1.0.aar\5dc5a24f006d30c5fdb753872bf0ca1a\AndroidManifest.xml:21:5-23:58
+MERGED from [com.android.support:support-core-ui:26.1.0] C:\Users\Wildan M Athoillah\.gradle\caches\transforms-1\files-1.1\support-core-ui-26.1.0.aar\5dc5a24f006d30c5fdb753872bf0ca1a\AndroidManifest.xml:21:5-23:58
+MERGED from [com.android.support:support-compat:26.1.0] C:\Users\Wildan M Athoillah\.gradle\caches\transforms-1\files-1.1\support-compat-26.1.0.aar\3d23b1a787a9190dd0109fd1f9dbf878\AndroidManifest.xml:21:5-23:58
+MERGED from [com.android.support:support-compat:26.1.0] C:\Users\Wildan M Athoillah\.gradle\caches\transforms-1\files-1.1\support-compat-26.1.0.aar\3d23b1a787a9190dd0109fd1f9dbf878\AndroidManifest.xml:21:5-23:58
+MERGED from [android.arch.lifecycle:runtime:1.0.0] C:\Users\Wildan M Athoillah\.gradle\caches\transforms-1\files-1.1\runtime-1.0.0.aar\adef0c4a05984e5109c7606ede1fcc9b\AndroidManifest.xml:20:5-22:41
+MERGED from [android.arch.lifecycle:runtime:1.0.0] C:\Users\Wildan M Athoillah\.gradle\caches\transforms-1\files-1.1\runtime-1.0.0.aar\adef0c4a05984e5109c7606ede1fcc9b\AndroidManifest.xml:20:5-22:41
+INJECTED from E:\WIldanTechnoArt\kasku\app\src\main\AndroidManifest.xml
+INJECTED from E:\WIldanTechnoArt\kasku\app\src\main\AndroidManifest.xml
+	tools:overrideLibrary
+		ADDED from [com.android.support:design:26.1.0] C:\Users\Wildan M Athoillah\.gradle\caches\transforms-1\files-1.1\design-26.1.0.aar\04a76a01958a2fbc180f1cefb1503b7e\AndroidManifest.xml:23:9-59
+	android:targetSdkVersion
+		INJECTED from E:\WIldanTechnoArt\kasku\app\src\main\AndroidManifest.xml
+		ADDED from E:\WIldanTechnoArt\kasku\app\src\main\AndroidManifest.xml
+		INJECTED from E:\WIldanTechnoArt\kasku\app\src\main\AndroidManifest.xml
+	android:minSdkVersion
+		INJECTED from E:\WIldanTechnoArt\kasku\app\src\main\AndroidManifest.xml
+		ADDED from E:\WIldanTechnoArt\kasku\app\src\main\AndroidManifest.xml
+		INJECTED from E:\WIldanTechnoArt\kasku\app\src\main\AndroidManifest.xml
+meta-data#android.support.VERSION
+ADDED from [com.android.support:design:26.1.0] C:\Users\Wildan M Athoillah\.gradle\caches\transforms-1\files-1.1\design-26.1.0.aar\04a76a01958a2fbc180f1cefb1503b7e\AndroidManifest.xml:26:9-28:38
+MERGED from [com.android.support:appcompat-v7:26.1.0] C:\Users\Wildan M Athoillah\.gradle\caches\transforms-1\files-1.1\appcompat-v7-26.1.0.aar\829b838287a8fc60bf0d366b7104f63a\AndroidManifest.xml:26:9-28:38
+MERGED from [com.android.support:appcompat-v7:26.1.0] C:\Users\Wildan M Athoillah\.gradle\caches\transforms-1\files-1.1\appcompat-v7-26.1.0.aar\829b838287a8fc60bf0d366b7104f63a\AndroidManifest.xml:26:9-28:38
+MERGED from [com.android.support:animated-vector-drawable:26.1.0] C:\Users\Wildan M Athoillah\.gradle\caches\transforms-1\files-1.1\animated-vector-drawable-26.1.0.aar\b2e14a19451647c1e1f7eb36636dcfe0\AndroidManifest.xml:23:9-25:38
+MERGED from [com.android.support:animated-vector-drawable:26.1.0] C:\Users\Wildan M Athoillah\.gradle\caches\transforms-1\files-1.1\animated-vector-drawable-26.1.0.aar\b2e14a19451647c1e1f7eb36636dcfe0\AndroidManifest.xml:23:9-25:38
+MERGED from [com.android.support:support-vector-drawable:26.1.0] C:\Users\Wildan M Athoillah\.gradle\caches\transforms-1\files-1.1\support-vector-drawable-26.1.0.aar\c00d50a7bf223ee13496b89d18c1b6bb\AndroidManifest.xml:23:9-25:38
+MERGED from [com.android.support:support-vector-drawable:26.1.0] C:\Users\Wildan M Athoillah\.gradle\caches\transforms-1\files-1.1\support-vector-drawable-26.1.0.aar\c00d50a7bf223ee13496b89d18c1b6bb\AndroidManifest.xml:23:9-25:38
+MERGED from [com.android.support:recyclerview-v7:26.1.0] C:\Users\Wildan M Athoillah\.gradle\caches\transforms-1\files-1.1\recyclerview-v7-26.1.0.aar\5174c5f8aaa9fe0c9c4b82bf4e491201\AndroidManifest.xml:23:9-25:38
+MERGED from [com.android.support:recyclerview-v7:26.1.0] C:\Users\Wildan M Athoillah\.gradle\caches\transforms-1\files-1.1\recyclerview-v7-26.1.0.aar\5174c5f8aaa9fe0c9c4b82bf4e491201\AndroidManifest.xml:23:9-25:38
+MERGED from [com.android.support:transition:26.1.0] C:\Users\Wildan M Athoillah\.gradle\caches\transforms-1\files-1.1\transition-26.1.0.aar\f5a5c2e53cd99bec1a5bcbfe21876735\AndroidManifest.xml:23:9-25:38
+MERGED from [com.android.support:transition:26.1.0] C:\Users\Wildan M Athoillah\.gradle\caches\transforms-1\files-1.1\transition-26.1.0.aar\f5a5c2e53cd99bec1a5bcbfe21876735\AndroidManifest.xml:23:9-25:38
+MERGED from [com.android.support:support-v4:26.1.0] C:\Users\Wildan M Athoillah\.gradle\caches\transforms-1\files-1.1\support-v4-26.1.0.aar\9457e5b6f4e41caa78986ca07d7c5f88\AndroidManifest.xml:26:9-28:38
+MERGED from [com.android.support:support-v4:26.1.0] C:\Users\Wildan M Athoillah\.gradle\caches\transforms-1\files-1.1\support-v4-26.1.0.aar\9457e5b6f4e41caa78986ca07d7c5f88\AndroidManifest.xml:26:9-28:38
+MERGED from [com.android.support:support-media-compat:26.1.0] C:\Users\Wildan M Athoillah\.gradle\caches\transforms-1\files-1.1\support-media-compat-26.1.0.aar\3a5ec474cc0845753d8411a0ddae7427\AndroidManifest.xml:26:9-28:38
+MERGED from [com.android.support:support-media-compat:26.1.0] C:\Users\Wildan M Athoillah\.gradle\caches\transforms-1\files-1.1\support-media-compat-26.1.0.aar\3a5ec474cc0845753d8411a0ddae7427\AndroidManifest.xml:26:9-28:38
+MERGED from [com.android.support:support-fragment:26.1.0] C:\Users\Wildan M Athoillah\.gradle\caches\transforms-1\files-1.1\support-fragment-26.1.0.aar\884f2211f6c0b5f76d394b289691fbfa\AndroidManifest.xml:26:9-28:38
+MERGED from [com.android.support:support-fragment:26.1.0] C:\Users\Wildan M Athoillah\.gradle\caches\transforms-1\files-1.1\support-fragment-26.1.0.aar\884f2211f6c0b5f76d394b289691fbfa\AndroidManifest.xml:26:9-28:38
+MERGED from [com.android.support:support-core-utils:26.1.0] C:\Users\Wildan M Athoillah\.gradle\caches\transforms-1\files-1.1\support-core-utils-26.1.0.aar\970e8c2f816d8ced9f1243410d9e4a20\AndroidManifest.xml:26:9-28:38
+MERGED from [com.android.support:support-core-utils:26.1.0] C:\Users\Wildan M Athoillah\.gradle\caches\transforms-1\files-1.1\support-core-utils-26.1.0.aar\970e8c2f816d8ced9f1243410d9e4a20\AndroidManifest.xml:26:9-28:38
+MERGED from [com.android.support:support-core-ui:26.1.0] C:\Users\Wildan M Athoillah\.gradle\caches\transforms-1\files-1.1\support-core-ui-26.1.0.aar\5dc5a24f006d30c5fdb753872bf0ca1a\AndroidManifest.xml:26:9-28:38
+MERGED from [com.android.support:support-core-ui:26.1.0] C:\Users\Wildan M Athoillah\.gradle\caches\transforms-1\files-1.1\support-core-ui-26.1.0.aar\5dc5a24f006d30c5fdb753872bf0ca1a\AndroidManifest.xml:26:9-28:38
+MERGED from [com.android.support:support-compat:26.1.0] C:\Users\Wildan M Athoillah\.gradle\caches\transforms-1\files-1.1\support-compat-26.1.0.aar\3d23b1a787a9190dd0109fd1f9dbf878\AndroidManifest.xml:26:9-28:38
+MERGED from [com.android.support:support-compat:26.1.0] C:\Users\Wildan M Athoillah\.gradle\caches\transforms-1\files-1.1\support-compat-26.1.0.aar\3d23b1a787a9190dd0109fd1f9dbf878\AndroidManifest.xml:26:9-28:38
+	android:value
+		ADDED from [com.android.support:design:26.1.0] C:\Users\Wildan M Athoillah\.gradle\caches\transforms-1\files-1.1\design-26.1.0.aar\04a76a01958a2fbc180f1cefb1503b7e\AndroidManifest.xml:28:13-35
+	android:name
+		ADDED from [com.android.support:design:26.1.0] C:\Users\Wildan M Athoillah\.gradle\caches\transforms-1\files-1.1\design-26.1.0.aar\04a76a01958a2fbc180f1cefb1503b7e\AndroidManifest.xml:27:13-51
+meta-data#android.arch.lifecycle.VERSION
+ADDED from [android.arch.lifecycle:runtime:1.0.0] C:\Users\Wildan M Athoillah\.gradle\caches\transforms-1\files-1.1\runtime-1.0.0.aar\adef0c4a05984e5109c7606ede1fcc9b\AndroidManifest.xml:25:9-27:47
+	android:value
+		ADDED from [android.arch.lifecycle:runtime:1.0.0] C:\Users\Wildan M Athoillah\.gradle\caches\transforms-1\files-1.1\runtime-1.0.0.aar\adef0c4a05984e5109c7606ede1fcc9b\AndroidManifest.xml:27:13-44
+	android:name
+		ADDED from [android.arch.lifecycle:runtime:1.0.0] C:\Users\Wildan M Athoillah\.gradle\caches\transforms-1\files-1.1\runtime-1.0.0.aar\adef0c4a05984e5109c7606ede1fcc9b\AndroidManifest.xml:26:13-58

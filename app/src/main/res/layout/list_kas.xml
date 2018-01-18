@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout
+    xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:orientation="vertical"
+    android:padding="5dp">
+
+    <TextView
+        android:id="@+id/text_transaksi_id"
+        android:visibility="gone"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content" />
+    <TextView
+        android:id="@+id/text_jumlah"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="10000"
+        android:textStyle="bold"
+        android:textSize="15sp"/>
+    <RelativeLayout
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content">
+        <TextView
+            android:id="@+id/text_keterangan"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:text="Uang Hasil Grab"
+            android:layout_toLeftOf="@id/text_status"
+            android:textSize="10sp"/>
+        <TextView
+            android:id="@+id/text_status"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:text="Masuk"
+            android:layout_alignParentRight="true"
+            android:textSize="10sp"/>
+    </RelativeLayout>
+    <TextView
+        android:id="@+id/text_tanggal"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="04 April 2018"
+        android:textSize="7sp"/>
+
+</LinearLayout>
